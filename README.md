@@ -68,19 +68,20 @@ app/
   <table style="border: none;">
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/300x600?text=Home+Screen" width="200" alt="Home Screen"/><br/>
+        <img src="screenshots/home.jpg" width="200" alt="Home Screen"/><br/>
         <b>Home Screen</b>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/300x600?text=Details+Screen" width="200" alt="Details Screen"/><br/>
+        <img src="screenshots/details.jpg" width="200" alt="Details Screen"/><br/>
         <b>Details</b>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/300x600?text=Map+View" width="200" alt="Map View"/><br/>
+        <img src="screenshots/map.jpg" width="200" alt="Map View"/><br/>
         <b>Map View</b>
       </td>
     </tr>
   </table>
+  <p><i>Note: Screenshots are currently using placeholder local images.</i></p>
 </div>
 
 ---
