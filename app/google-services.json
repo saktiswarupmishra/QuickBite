@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894809734162",
+    "project_id": "com-example-quickbiteloc-a0175",
+    "storage_bucket": "com-example-quickbiteloc-a0175.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894809734162:android:5d16587ee2621eab15accb",
+        "android_client_info": {
+          "package_name": "com.example.quickbitelocal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtNCove86xn02CKjxSFCfPvy8g9i2lrq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
