@@ -22,6 +22,14 @@
 
 ## 🛠 Technology Stack
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google_cloud" width="40" height="40"/> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>
+
 ### Core
 - **Language**: [Kotlin](https://kotlinlang.org/) - 100% type-safe and modern code.
 - **UI Framework**: [Jetpack Compose](https://developer.android.com/jetpack/compose) - Declarative UI development.
@@ -56,9 +64,24 @@ app/
 
 ## 📸 Screenshots
 
-| Home Screen | Restaurant Details | Map View |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/300x600?text=Home+Screen) | ![Details](https://via.placeholder.com/300x600?text=Details+Screen) | ![Maps](https://via.placeholder.com/300x600?text=Map+View) |
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center">
+        <img src="https://via.placeholder.com/300x600?text=Home+Screen" width="200" alt="Home Screen"/><br/>
+        <b>Home Screen</b>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/300x600?text=Details+Screen" width="200" alt="Details Screen"/><br/>
+        <b>Details</b>
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/300x600?text=Map+View" width="200" alt="Map View"/><br/>
+        <b>Map View</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
